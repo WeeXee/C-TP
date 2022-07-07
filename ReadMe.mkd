@@ -1,0 +1,71 @@
+# ZOO Projet C++
+
+## A Propos
+
+* Un jeu d'organisation
+* Langage obligatoire C++
+* Groupe de 2
+
+Notre repository et consigne:
+
+* <https://git.ytrack.learn.ynov.com/ZNONIASHVILI/CPP_tp_final>
+
+
+* <https://docs.google.com/spreadsheets/d/1LHXIDm7j5kan1B9-40uPYAEBp8GY4cxpyNoVweuNUr0/edit#gid=0>
+
+## Sommaire:
+
+> * Zoo Projet
+>   * A propos
+>   * Sommaire
+>   * Installation
+>   * Repartition des taches
+>   * Code
+>   * Diffficultées rencontrées
+>   * Aides utilisées
+>   * Build
+>   * Notre école
+
+
+## Répartition des tâches 
+
+> Travail par groupe de 2, utilisation de git et trello. 
+Nous nous sommes vus sur le site de Toulouse Ynov campus afin d'avancer ensemblees sur le projet. 
+
+## Code
+ 
+ > Pour l'accès au code vous pouvez cliquer sur nos fichiers "src" et "includes". Vous y verrez tuot notre projet.
+
+
+## Diffficultées rencontrées
+
+> Ordinateur cassé le dernier jour de travail. Impossibilité de rendre le travail terminé dans l'immédiat (dernier push sur git interrompu par le bug...).  
+
+## Aides utilisées
+
+StackOverflow: <https://stackoverflow.com>
+
+## Build
+
+    make
+    
+    or 
+
+    g++ .\src\main.cpp .\src\globalmenu.cpp .\src\animal.cpp .\src\habitat.cpp .\src\menuanimal.cpp .\src\menuhabitat.cpp .\src\menunourriture.cpp .\src\prix.cpp .\src\zoo.cpp
+
+> Build options:
+
+* Par la commande g++
+* Par la commande make 
+
+
+## Notre école
+
+Toulouse Ynov Campus 
+2 Place de l'Europe 
+31000 Toulouse
+
+## Un travail effectué par :
+    NONIASHVILI Zezva
+    CABEE Pauline
+    B1 Informatique
